@@ -100,7 +100,10 @@ Hospital-and-Appointment-Management-System/
 
 ## 🖼️ Screenshot Preview
 
-📸 *(Insert screenshots here for more visual appeal)*
+📸 
+![Hospital Screenshot](<img width="1920" height="1020" alt="Screenshot 2025-08-12 205733" src="https://github.com/user-attachments/assets/6594f3dd-a356-4f0e-89a4-782d202c4758" />
+)
+
 
 ---
 
