@@ -1,0 +1,47 @@
+CREATE DATABASE IF NOT EXISTS hospital;
+USE hospital;
+
+-- Specialist table
+CREATE TABLE IF NOT EXISTS specialist (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    specialistName VARCHAR(100) NOT NULL
+);
+select * from specialist;
+-- User details table
+CREATE TABLE IF NOT EXISTS user_details (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fullName VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    password VARCHAR(100) NOT NULL
+);
+select * from user_details;
+
+-- Doctor table
+CREATE TABLE IF NOT EXISTS doctor (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fullName VARCHAR(100) NOT NULL,
+    dateOfBirth DATE NOT NULL,
+    qualification VARCHAR(100) NOT NULL,
+    specialist VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    phone VARCHAR(15) NOT NULL,
+    password VARCHAR(100) NOT NULL
+);
+select * from doctor;
+
+CREATE TABLE IF NOT EXISTS appointment (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    userId INT NOT NULL,
+    fullName VARCHAR(100) NOT NULL,
+    gender VARCHAR(10) NOT NULL,
+    age VARCHAR(3) NOT NULL,
+    appointmentDate DATE NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    phone VARCHAR(15) NOT NULL,
+    diseases VARCHAR(200) NOT NULL,
+    doctorId INT,
+    address VARCHAR(255) NOT NULL,
+    status VARCHAR(50) NOT NULL
+);
+select * from appointment;
+
