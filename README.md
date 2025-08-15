@@ -105,11 +105,11 @@ Hospital-and-Appointment-Management-System/
 ### 📌 Admin Dashboard
 <p align="center">
   <img src="images/Screenshot 2025-08-12 205733.png" alt="Admin Dashboard" width="600">
-  <img src="images/Screenshot 2025-08-12 205844.png" alt="Dashboard" width="300">
-  <img src="images/Screenshot 2025-08-12 210215.png" alt="ADMIN lOGIN" width="300">
-  <img src="images/Screenshot 2025-08-12 210314.png" alt="Dashboard" width="300">
-  <img src="images/Screenshot 2025-08-12 210356.png" alt="ADD DOCTOR" width="300">
-  <img src="images/Screenshot 2025-08-12 210421.png" alt="LIST OF DOCTORS" width="300">
+  <img src="images/Screenshot 2025-08-12 205844.png" alt="Dashboard" width="600">
+  <img src="images/Screenshot 2025-08-12 210215.png" alt="ADMIN lOGIN" width="600">
+  <img src="images/Screenshot 2025-08-12 210314.png" alt="Dashboard" width="600">
+  <img src="images/Screenshot 2025-08-12 210356.png" alt="ADD DOCTOR" width="600">
+  <img src="images/Screenshot 2025-08-12 210421.png" alt="LIST OF DOCTORS" width="600">
 </p>
 
 ### 📌 Doctor Login
