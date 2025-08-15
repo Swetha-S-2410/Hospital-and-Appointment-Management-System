@@ -77,6 +77,58 @@ An intuitive and efficient web-based application 💻 that streamlines hospital 
 👨‍⚕️ **Log in as Doctor** → manage appointments.
 
 ---
-
 ## 📂 Project Structure
+
+```plaintext
+Hospital-and-Appointment-Management-System/
+├── src/
+│   ├── com.hms.db/             # Database connection util
+│   ├── com.hms.dao/            # DAO classes (DoctorDAO, AppointmentDAO)
+│   ├── com.hms.entity/         # Entity classes (Doctor, Appointment, etc.)
+│   └── com.hms.admin.servlet/  # Admin Servlets
+├── WebContent/
+│   ├── admin/                  # Admin JSP pages
+│   ├── component/              # Common includes (navbar, CSS)
+│   ├── doctor/                 # Doctor panel
+│   ├── patient/                # Patient panel
+│   └── admin_login.jsp         # Login page
+└── README.md                   # This documentation
+'''
+
+
+---
+
+## 🖼️ Screenshot Preview
+
+📸 *(Insert screenshots here for more visual appeal)*
+
+---
+
+## 📊 UML & ER Diagrams
+
+🗺️ **ER Diagram**: Shows entities and relationships (doctors, patients, specialists, appointments).  
+📐 **UML Diagrams**: Class and Use Case diagrams generated with PlantUML.  
+
+🖼️ *(Include images or links here)*
+
+---
+
+## 🔮 Future Enhancements
+
+📧 Email/SMS Notifications for booking confirmations  
+🛡️ Advanced role-based access control (RBAC)  
+🗓️ Doctor availability & slot booking  
+📈 Reports & Analytics for admin  
+
+---
+
+## 👩‍💻 About
+
+Developed under the name **MediTrack** 🏥 — a complete web-based solution to digitalize hospital workflows and enhance operational efficiency 🚀.
+
+---
+
+## 📬 Contact
+
+💌 For queries, feedback, or contributions: **[Your Name / Email]**
 
