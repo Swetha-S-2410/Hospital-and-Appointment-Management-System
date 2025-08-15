@@ -75,7 +75,7 @@ An intuitive and efficient web-based application 💻 that streamlines hospital 
 
 👨‍⚕️ Log in as Doctor → manage appointments.
 
-📂 Project Structure
+***📂 Project Structure***
 Hospital-and-Appointment-Management-System/
 ├── src/
 │   ├── com.hms.db/          # Database connection util
@@ -89,3 +89,4 @@ Hospital-and-Appointment-Management-System/
 │   ├── patient/              # Patient panel
 │   └── admin_login.jsp       # Login page
 └── README.md                 # This documentation
+
