@@ -100,11 +100,37 @@ Hospital-and-Appointment-Management-System/
 
 ## 🖼️ Screenshot Preview
 
-📸 
-![Hospital Screenshot](<img width="1920" height="1020" alt="Screenshot 2025-08-12 205733" src="https://github.com/user-attachments/assets/6594f3dd-a356-4f0e-89a4-782d202c4758" />
-)
+## 🖼️ Screenshot Gallery
 
+### 📌 Admin Dashboard
+<p align="center">
+  <img src="images/Screenshot 2025-08-12 205733.png" alt="Admin Dashboard" width="600">
+  <img src="images/Screenshot 2025-08-12 205844.png" alt="Dashboard" width="300">
+  <img src="images/Screenshot 2025-08-12 210215.png" alt="ADMIN lOGIN" width="300">
+  <img src="images/Screenshot 2025-08-12 210314.png" alt="Dashboard" width="300">
+  <img src="images/Screenshot 2025-08-12 210356.png" alt="ADD DOCTOR" width="300">
+  <img src="images/Screenshot 2025-08-12 210421.png" alt="LIST OF DOCTORS" width="300">
+</p>
 
+### 📌 Doctor Login
+<p align="center">
+  <img src="images/Screenshot 2025-08-12 210519.png" alt="Doctor Login" width="600">
+  <img src="images/Screenshot 2025-08-12 210647.png" alt="DOCTOR DASHBOARD" width="600">
+  <img src="images/Screenshot 2025-08-12 210716.png" alt="Patient Details" width="600">
+  <img src="images/Screenshot 2025-08-12 210807.png" alt="Edit Doctor" width="600">
+</p>
+
+### 📌 USER APPOINTMENT
+<p align="center">
+  <img src="images/Screenshot 2025-08-12 210920.png" alt="User Appointment" width="600">
+</p>
+
+### 📌 User Login
+<p align="center">
+  <img src="images/Screenshot 2025-08-12 211003.png" alt="User Login" width="600">
+  <img src="images/Screenshot 2025-08-12 211223.png" alt="User Register" width="600">
+  <img src="images/Screenshot 2025-08-12 211308.png" alt="Appointment List" width="600">
+</p>
 ---
 
 ## 📊 UML & ER Diagrams
