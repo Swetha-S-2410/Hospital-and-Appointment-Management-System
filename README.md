@@ -130,5 +130,5 @@ Developed under the name **MediTrack** 🏥 — a complete web-based solution to
 
 ## 📬 Contact
 
-💌 For queries, feedback, or contributions: **[Your Name / Email]**
+💌 For queries, feedback, or contributions: **[SWETHA/ swethaesc24@gmail.com]**
 
