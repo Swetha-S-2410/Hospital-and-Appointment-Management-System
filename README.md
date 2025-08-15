@@ -74,3 +74,18 @@ An intuitive and efficient web-based application 💻 that streamlines hospital 
 🧑‍🤝‍🧑 Sign up as Patient → book appointments.
 
 👨‍⚕️ Log in as Doctor → manage appointments.
+
+📂 Project Structure
+Hospital-and-Appointment-Management-System/
+├── src/
+│   ├── com.hms.db/          # Database connection util
+│   ├── com.hms.dao/         # DAO classes (DoctorDAO, AppointmentDAO)
+│   ├── com.hms.entity/      # Entity classes (Doctor, Appointment, etc.)
+│   └── com.hms.admin.servlet/  # Admin Servlets
+├── WebContent/
+│   ├── admin/                # Admin JSP pages
+│   ├── component/            # Common includes (navbar, CSS)
+│   ├── doctor/               # Doctor panel
+│   ├── patient/              # Patient panel
+│   └── admin_login.jsp       # Login page
+└── README.md                 # This documentation
