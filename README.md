@@ -114,14 +114,18 @@ Hospital-and-Appointment-Management-System/
 
 ### 📌 ER DIAGRAM
 <p align="center">
-  <img src="images/admin-dashboard.png" alt="ER DIAGRAM" width="600">
+  <img src="images/er.jpg" alt="ER DIAGRAM" width="600">
 </p>
 
 ### 📌 USECASE DIAGRAM
 <p align="center">
-  <img src="images/appointment-booking.png" alt="USECASE DIAGRAM" width="600">
+  <img src="images/use.jpg" alt="USECASE DIAGRAM" width="600">
 </p>
 
+### 📌 CLASS DIAGRAM
+<p align="center">
+  <img src="images/class.jpg" alt="USECASE DIAGRAM" width="600">
+</p>
 
 
 ---
