@@ -100,8 +100,6 @@ Hospital-and-Appointment-Management-System/
 
 ## 🖼️ Screenshot Preview
 
-## 🖼️ Screenshot Gallery
-
 ### 📌 Admin Dashboard
 <p align="center">
   <img src="images/Screenshot 2025-08-12 205733.png" alt="Admin Dashboard" width="600">
