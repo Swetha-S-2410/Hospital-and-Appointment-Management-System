@@ -49,48 +49,34 @@ An intuitive and efficient web-based application 💻 that streamlines hospital 
    ```bash
    git clone https://github.com/Swetha-S-2410/Hospital-and-Appointment-Management-System.git
 
-2. **🗄️ Database Setup**
+## 🗄️ Database Setup
 
-  🏗️ Create the hospital database in MySQL.
+🏗️ **Create the hospital database** in MySQL.  
+▶️ Run the provided SQL script to generate tables (`doctor`, `user_details`, `specialist`, `appointment`).
 
-  ▶️ Run the provided SQL script to generate tables (doctor, user_details, specialist, appointment).
+---
 
-3. **⚙️ Configure Database Credentials**
+## ⚙️ Configure Database Credentials
 
-  ✏️ Update connection parameters in DBConnection.java.
+✏️ Update connection parameters in **DBConnection.java**.
 
-4. **📦 Deploy to Server**
+---
 
-  🏗️ Build your project (Maven/Gradle).
+## 📦 Deploy to Server
 
-  🌐 Deploy WAR to Apache Tomcat.
+🏗️ Build your project (**Maven/Gradle**).  
+🌐 Deploy WAR to **Apache Tomcat**.  
+🔗 Access via: `http://localhost:8080/<context>/admin/doctor.jsp`.
 
-  🔗 Access via: http://localhost:8080/<context>/admin/doctor.jsp.
+---
 
-5. **✅ Run and Test**
+## ✅ Run and Test
 
-  👨‍💼 Log in as Admin → manage doctors/specialists.
+👨‍💼 **Log in as Admin** → manage doctors/specialists.  
+🧑‍🤝‍🧑 **Sign up as Patient** → book appointments.  
+👨‍⚕️ **Log in as Doctor** → manage appointments.
 
-  🧑‍🤝‍🧑 Sign up as Patient → book appointments.
-
-  👨‍⚕️ Log in as Doctor → manage appointments.
+---
 
 ## 📂 Project Structure
 
-'''
-Hospital-and-Appointment-Management-System/
-│
-├── src/
-│ ├── com.hms.db/ # [Database connection util]
-│ ├── com.hms.dao/ # [DAO classes: DoctorDAO, AppointmentDAO]
-│ ├── com.hms.entity/ # [Entity classes: Doctor, Appointment, etc.]
-│ └── com.hms.admin.servlet/ # [Admin Servlets]
-│
-├── WebContent/
-│ ├── admin/ # [Admin JSP pages]
-│ ├── component/ # [Common includes: navbar, CSS]
-│ ├── doctor/ # [Doctor panel]
-│ ├── patient/ # [Patient panel]
-│ └── admin_login.jsp # [Login page]
-│
-└── README.md # [This documentation]
