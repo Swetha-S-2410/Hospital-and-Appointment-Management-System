@@ -112,11 +112,16 @@ Hospital-and-Appointment-Management-System/
 🗺️ **ER Diagram**: Shows entities and relationships (doctors, patients, specialists, appointments).  
 📐 **UML Diagrams**: Class and Use Case diagrams generated with PlantUML.  
 
+### 📌 ER DIAGRAM
 <p align="center">
-  <img src="images/er.jpg" alt="Dashboard" width="300">
-  <img src="" alt="Appointment Booking" width="300">
-  <img src="" alt="Doctor Panel" width="300">
+  <img src="images/admin-dashboard.png" alt="ER DIAGRAM" width="600">
 </p>
+
+### 📌 USECASE DIAGRAM
+<p align="center">
+  <img src="images/appointment-booking.png" alt="USECASE DIAGRAM" width="600">
+</p>
+
 
 
 ---
