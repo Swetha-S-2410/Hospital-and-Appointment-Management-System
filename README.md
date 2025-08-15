@@ -48,3 +48,29 @@ An intuitive and efficient web-based application 💻 that streamlines hospital 
 1. **📥 Clone the repository**  
    ```bash
    git clone https://github.com/Swetha-S-2410/Hospital-and-Appointment-Management-System.git
+
+2. **🗄️ Database Setup**
+
+🏗️ Create the hospital database in MySQL.
+
+▶️ Run the provided SQL script to generate tables (doctor, user_details, specialist, appointment).
+
+3. **⚙️ Configure Database Credentials**
+
+✏️ Update connection parameters in DBConnection.java.
+
+4. **📦 Deploy to Server**
+
+🏗️ Build your project (Maven/Gradle).
+
+🌐 Deploy WAR to Apache Tomcat.
+
+🔗 Access via: http://localhost:8080/<context>/admin/doctor.jsp.
+
+5. **✅ Run and Test**
+
+👨‍💼 Log in as Admin → manage doctors/specialists.
+
+🧑‍🤝‍🧑 Sign up as Patient → book appointments.
+
+👨‍⚕️ Log in as Doctor → manage appointments.
