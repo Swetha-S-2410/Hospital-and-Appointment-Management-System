@@ -93,7 +93,7 @@ Hospital-and-Appointment-Management-System/
 │   ├── patient/                # Patient panel
 │   └── admin_login.jsp         # Login page
 └── README.md                   # This documentation
-'''
+```
 
 
 ---
